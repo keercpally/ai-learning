@@ -47,3 +47,5 @@ for cut in test_cuts:
 
 print(f"The computer found the best passing cutoff: {best_threshold} hours")
 print(f"Total mistakes by machine learned rule: {lowest_mistakes}")
+
+#ignore
